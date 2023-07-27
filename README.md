@@ -60,9 +60,6 @@ SmurfCode is lovingly maintained by Aymane Sadiki.
 
 Contributions are always welcome! If you find any issues or have ideas for improvements, please feel free to submit a pull request.
 
-## License
-
-SmurfCode is licensed under the [MIT License](LICENSE).
 
 ---
 
