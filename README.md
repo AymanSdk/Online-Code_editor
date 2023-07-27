@@ -1,6 +1,5 @@
 # SmurfCode - An Online Code Editor for JavaScript and CSS with Live Preview
 
-![SmurfCode Logo](Example.png) *(You can include a logo if you have one)*
 
 SmurfCode is a simple and intuitive online code editor that allows you to write, edit, and preview HTML, CSS, and JavaScript code in real-time. It provides a convenient development environment for experimenting with code snippets, testing new ideas, and creating web content on the fly.
 
@@ -14,7 +13,7 @@ SmurfCode is a simple and intuitive online code editor that allows you to write,
 
 ## Preview
 
-![SmurfCode Screenshot](screenshot.png) *(You can include a screenshot of the interface)*
+![SmurfCode Screenshot](Example.png) *(You can include a screenshot of the interface)*
 
 ## Getting Started
 
